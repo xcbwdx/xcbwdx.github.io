@@ -119,4 +119,4 @@ header:
       fr-FR   : *FR
       fr-LU   : *FR
       # @end locale config
-    url: /music.html          
+    url: https://music.163.com/#/my/m/music/playlist?id=939806544          
