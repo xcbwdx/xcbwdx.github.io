@@ -48,8 +48,8 @@ header:
       fr-LU   : *FR
       # @end locale config
     url: /about.html  
-  - titles:图集
+  - title:图集
     url: /picture.html
-  - titles:视频
+  - title:视频
     url: /video.html  
 
