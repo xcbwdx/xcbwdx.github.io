@@ -1,5 +1,5 @@
 header:
-  - titles:
+  - titles:标题
       # @start locale config
       en      : &EN       标题
       en-GB   : *EN
@@ -24,7 +24,7 @@ header:
       # @end locale config
     url: /archive.html
 
-  - titles:
+  - titles:关于
       # @start locale config
       en      : &EN       关于
       en-GB   : *EN
