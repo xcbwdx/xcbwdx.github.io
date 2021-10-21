@@ -71,7 +71,16 @@ header:
       fr-FR   : *FR
       fr-LU   : *FR
       # @end locale config
-    url: /picture.html
+    url: /https://i0.hdslb.com/bfs/article/62f6af3e374af675fb4469ab3bd2ef0dd4f4c5c5.jpg@942w_549h_progressive.webp
+    url: /https://i0.hdslb.com/bfs/article/764af484b92bc6e7d371b0c59f0019e3f9dcd504.jpg@942w_1266h_progressive.webp
+    url: /https://i0.hdslb.com/bfs/article/6bae902e812ae295a42aa5033bdc56a9bc591597.jpg@942w_608h_progressive.webp
+    url: /https://i0.hdslb.com/bfs/article/6885486654c7f430117cda1f2a3e3f315e62b57b.jpg@942w_579h_progressive.webp
+    url: /https://i0.hdslb.com/bfs/article/b9d144c5af8dfa8155b17c27e887279fbb0ffa39.jpg@942w_600h_progressive.webp
+    url: /https://i0.hdslb.com/bfs/article/c9b41b805526fb499653e13d8579ff86e7e1e471.jpg@942w_581h_progressive.webp
+    url: /https://i0.hdslb.com/bfs/article/4e29081d29966b0f8d6811c9e1ee286cd3c84162.jpg@942w_1413h_progressive.webp
+    url: /https://i0.hdslb.com/bfs/article/b39c3733f95b2b7bec22d41cacb16b384e5116a0.jpg@942w_561h_progressive.webp
+    url: /https://i0.hdslb.com/bfs/article/b9b5320843344374db5fe2666b70f0b535e8e58b.jpg@942w_533h_progressive.webp
+    url: /https://i0.hdslb.com/bfs/article/7c088a677bf306cf21bd7df8b5aa3a3d1619bd71.jpg@942w_452h_progressive.webp
   - titles:
       # @start locale config
       en      : &EN       视频
