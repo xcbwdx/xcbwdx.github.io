@@ -24,7 +24,7 @@ header:
       # @end locale config
     url: /archive.html
 
-  - titles:关于
+  - titles:关于主题
       # @start locale config
       en      : &EN       关于
       en-GB   : *EN
@@ -47,4 +47,9 @@ header:
       fr-FR   : *FR
       fr-LU   : *FR
       # @end locale config
-    url: /about.html
+    url: /about.html  
+  - titles:图集
+    url: /picture.html
+  - titles:视频
+    url: /video.html  
+
