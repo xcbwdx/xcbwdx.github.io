@@ -71,7 +71,7 @@ header:
       fr-FR   : *FR
       fr-LU   : *FR
       # @end locale config
-    url: /picturee.html
+    url: /picture.html
   - titles:
       # @start locale config
       en      : &EN       视频
@@ -95,8 +95,7 @@ header:
       fr-FR   : *FR
       fr-LU   : *FR
       # @end locale config
-    url: /videoe.html
-  header:
+    url: /video.html
   - titles:
       # @start locale config
       en      : &EN       音乐
@@ -120,4 +119,4 @@ header:
       fr-FR   : *FR
       fr-LU   : *FR
       # @end locale config
-    url: /musice.html          
+    url: /music.html          
