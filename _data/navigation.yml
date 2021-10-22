@@ -95,7 +95,7 @@ header:
       fr-FR   : *FR
       fr-LU   : *FR
       # @end locale config
-    url: /video.html
+    url: https://www.bilibili.com/
   - titles:
       # @start locale config
       en      : &EN       音乐
