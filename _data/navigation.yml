@@ -71,7 +71,7 @@ header:
       fr-FR   : *FR
       fr-LU   : *FR
       # @end locale config
-    url: /_post/image  
+    url: https://github.com/xcbwdx/xcbwdx.github.io/tree/master/_posts/image  
   - titles:
       # @start locale config
       en      : &EN       视频
